@@ -1,3 +1,10 @@
 [workspace]
 
-members = ["basics", "tokio-test", "libcrate-test", "bincrate-test", "tui-test"]
+members = [
+  "basics",
+  "tokio-test",
+  "libcrate-test",
+  "bincrate-test",
+  "tui-test",
+  "csv-test"
+]
