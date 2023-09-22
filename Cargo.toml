@@ -6,5 +6,6 @@ members = [
   "libcrate-test",
   "bincrate-test",
   "tui-test",
-  "csv-test"
+  "csv-test",
+  "regex-test",
 ]
